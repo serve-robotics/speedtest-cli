@@ -1,0 +1,9 @@
+# security@serverobotics.com
+# For teleop software, it has most critical safety, network exposure with PII and SI.
+# https://www.notion.so/serverobotics/System-Classification-Examples-for-SCC-v1-0-1d263ca2da9b8099a947fdb8c0b15ab9?pvs=4
+#      - SCS: 1.0 version
+#      - Non Critical
+#      - Low Exposure
+#      - Personal Identifiable Information: No
+#      - Sensitive Information: No
+*         SCS:1.0/SC:N/NE:L/PII:N/SI:N
